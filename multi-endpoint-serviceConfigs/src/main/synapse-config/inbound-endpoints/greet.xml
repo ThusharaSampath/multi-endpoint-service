@@ -7,6 +7,6 @@
         <parameter name="inbound.worker.thread.keep.alive.sec">60</parameter>
         <parameter name="inbound.worker.pool.queue.length">-1</parameter>
         <parameter name="inbound.thread.id">PassThroughInboundWorkerPool</parameter>
-        <parameter name="dispatch.filter.pattern">/greet</parameter>
+        <parameter name="dispatch.filter.pattern">/hello</parameter>
     </parameters>
 </inboundEndpoint>
